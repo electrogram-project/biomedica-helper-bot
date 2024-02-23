@@ -30,7 +30,7 @@
 
 ## About The Project
 
-First published on 18 February 2021, "Biomedica helper bot" represents the first version the telegram bot later known as "Encefalogramma". Its purpose was to bring together and organise the then small number of biomedical engineering course groups in one place.
+First published on 18 February 2021, "Biomedica helper bot" represents the first version of the telegram bot later known as "Encefalogramma". Its purpose was to bring together and organise the then small number of biomedical engineering course groups in one place.
 
 ### Built With
 
