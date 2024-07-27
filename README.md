@@ -43,7 +43,7 @@ First published on 18 February 2021, "Biomedica helper bot" represents the first
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more
+Distributed under the Apache License 2.0. See `LICENSE.txt` for more
 information.
 
 ## Credits
